@@ -2,7 +2,7 @@
 .vs/
 Debug/
 nonDivisibleSubset/Debug/
-nonDivisibleSubset/nonDivisibleSubset/vcxproj
-nonDivisibleSubset/nonDivisibleSubset/vcxproj.filters
-nonDivisibleSubset/nonDivisibleSubset/vcxproj.user
+nonDivisibleSubset/nonDivisibleSubset.vcxproj
+nonDivisibleSubset/nonDivisibleSubset.vcxproj.filters
+nonDivisibleSubset/nonDivisibleSubset.vcxproj.user
 nonDivisibleSubset.sln
