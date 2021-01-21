@@ -1,0 +1,6 @@
+./git
+.vs/
+Debug/
+nonDivisibleSubset/main.cpp
+!*/nonDivisibleSubset/main.cpp
+nonDivisibleSubset.sln
