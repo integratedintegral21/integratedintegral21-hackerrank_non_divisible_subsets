@@ -1,6 +1,8 @@
 ./git
 .vs/
 Debug/
-nonDivisibleSubset/
-!*/nonDivisibleSubset/main.cpp
+nonDivisibleSubset/Debug/
+nonDivisibleSubset/nonDivisibleSubset/vcxproj
+nonDivisibleSubset/nonDivisibleSubset/vcxproj.filters
+nonDivisibleSubset/nonDivisibleSubset/vcxproj.user
 nonDivisibleSubset.sln
