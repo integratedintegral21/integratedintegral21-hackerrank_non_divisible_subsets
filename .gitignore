@@ -1,6 +1,6 @@
 ./git
 .vs/
 Debug/
-nonDivisibleSubset/main.cpp
+nonDivisibleSubset/
 !*/nonDivisibleSubset/main.cpp
 nonDivisibleSubset.sln
